@@ -1,0 +1,17 @@
+{
+  "name": "kafka",
+  "version": "0.0.1",
+  "description": "kafka prototype",
+  "keywords": [
+    "kafka",
+    "queue"
+  ],
+  "dependencies": {
+    "no-kafka": ""
+  },
+  "devDependencies": {},
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
